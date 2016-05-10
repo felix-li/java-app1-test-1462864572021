@@ -1,7 +1,7 @@
 applications:
 - path: target/JavaHelloWorldApp.war
   memory: 512M
-  instances: 1
+  instances: 2
   domain: stage1.mybluemix.net
   name: java-app1-test
   host: java-app1-test
